@@ -1,0 +1,7 @@
+C:\Users\pravi\source\repos\Array_July24_250724\bin\Debug\Array_July24_250724.exe.config
+C:\Users\pravi\source\repos\Array_July24_250724\bin\Debug\Array_July24_250724.exe
+C:\Users\pravi\source\repos\Array_July24_250724\bin\Debug\Array_July24_250724.pdb
+C:\Users\pravi\source\repos\Array_July24_250724\obj\Debug\Array_July24_250724.csproj.AssemblyReference.cache
+C:\Users\pravi\source\repos\Array_July24_250724\obj\Debug\Array_July24_250724.csproj.CoreCompileInputs.cache
+C:\Users\pravi\source\repos\Array_July24_250724\obj\Debug\Array_July24_250724.exe
+C:\Users\pravi\source\repos\Array_July24_250724\obj\Debug\Array_July24_250724.pdb
